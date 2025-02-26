@@ -27,6 +27,10 @@
   border-radius: 5px;
   box-shadow: 0 5px 25px rgba(0, 0, 0, 0.1);
 }
+.widget {
+  height: auto !important;
+  min-height: 400px;
+}
 .widget .cover {
   height: 160px;
   overflow: hidden;
